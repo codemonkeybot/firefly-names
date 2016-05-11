@@ -1,0 +1,26 @@
+{
+  "name": "firefly-names",
+  "version": "1.0.0",
+  "description": "Get random Firefly character names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemonkeybot/firefly-names.git"
+  },
+  "keywords": [
+    "random",
+    "firefly"
+  ],
+  "author": "Richard Cunday <rich.cunday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemonkeybot/firefly-names/issues"
+  },
+  "homepage": "https://github.com/codemonkeybot/firefly-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
