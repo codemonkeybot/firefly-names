@@ -1,6 +1,6 @@
 {
   "name": "firefly-names",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Get random Firefly character names",
   "main": "src/index.js",
   "scripts": {

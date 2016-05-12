@@ -29,4 +29,4 @@ var threeRandomNames = names.random(3);
 
 This library was inspired by a tutorial by [Kent C. Dodds](https://twitter.com/kentcdodds) as part of an
 [egghead.io](http://egghead.io/) series called "How to Write a JavaScript Library."
-# firefly-names
+
